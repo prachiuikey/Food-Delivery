@@ -14,8 +14,8 @@ npm run test
 
 ## Environment Variables
 
-PORT=
-MONGO_URI=
+- PORT=
+- MONGO_URI=
 
 ## Author
 
